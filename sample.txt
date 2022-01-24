@@ -1,1 +1,2 @@
 Welcome to gitworld !!!
+Github is collaborative platform.
